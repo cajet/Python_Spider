@@ -5,8 +5,8 @@
 from pyspider.libs.base_handler import *
 
 PAGE_START = 1
-PAGE_END = 30
-DIR_PATH = '/var/py/mm'
+PAGE_END = 10
+DIR_PATH = 'F:/py/taobaomm'
 
 
 class Handler(BaseHandler):
